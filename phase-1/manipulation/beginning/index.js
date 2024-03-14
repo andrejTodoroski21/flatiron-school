@@ -57,6 +57,7 @@ document.body.append(image)
 function displayList(name, items){
     const listName = document.createElement("h3")
     listName.textContent = name
+    document.body.append(listName)
 
     const list = document.createElement("ul");
     document.body.appendChild(list);
@@ -71,13 +72,11 @@ const title = 'Ice Cream'
 const content = ["vanilla", "choco", "strawberry"]
 displayList(title, content )
 
-// document.querySelector('strong').remove()
-// const newTitle = document.createElement("h1");
-// newTitle.id = 'newTitle';
-// newTitle.document.textContent = "this is the new title";
-// const oldTitle = document.querySelector("strong")
-// const parentDiv = oldTitle.parentNode
-// parentDiv.replaceChild('h1', 'strong')
-// document.querySelector("strong").replaceChild("h1", "strong")
+//challange 2
+const div = document.querySelector('strong')
+div.remove()
+const newAddress = document.createElement('img')
+// newAddress.src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpikachu-gifs&psig=AOvVaw0V26sSJxuegjQ_7sTTRR99&ust=1710447152774000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjFuamG8oQDFQAAAAAdAAAAABAE.gif"
+document.querySelector("div").append(newAddress)
 
 
