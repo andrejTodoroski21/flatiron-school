@@ -11,10 +11,15 @@ Objectives
 */
 
 // `fetch()` is an API that lets us:
+
 // - Create (POST) data.
+
 // - Read (GET) data.
+
 // - Update (PATCH) data.
+
 // - Delete (DELETE) data.
+
 // Whereas `document` let us perform these operations on the DOM,
 // `fetch` lets us do them on the web, i.e. any dataset we have access to.
 
