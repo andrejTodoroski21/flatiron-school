@@ -1,0 +1,80 @@
+{
+  "pokemon": [
+    {
+      "id": "1",
+      "name": "Ditto",
+      "type": [
+        "Normal"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Charizard",
+      "type": [
+        "Fire",
+        "Flying"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Gengar",
+      "type": [
+        "Ghost",
+        "Poison"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Pikachu",
+      "type": [
+        "Electric"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Geodude",
+      "type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Geodude",
+      "type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Alakazam",
+      "type": [
+        "Psychic"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Machamp",
+      "type": [
+        "Fighting"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Golem",
+      "type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    {
+      "id": "d3cf",
+      "name": "charizard",
+      "type": [
+        "fire",
+        "flying"
+      ]
+    }
+  ]
+}
